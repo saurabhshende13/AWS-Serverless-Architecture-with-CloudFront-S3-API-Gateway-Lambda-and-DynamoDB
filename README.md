@@ -61,7 +61,7 @@ Two Lambda functions will handle inserting and fetching employee data.
 - Create another Lambda function named `GetEmployee`.
 - Set the **Runtime** to **Python**.
 
-![step2e](steps/step2.png)
+![step2e](steps/step2e.png)
 
 - Attach an execution role with the necessary permissions.
 
